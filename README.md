@@ -52,7 +52,7 @@ rps.exe
    - `3` for Scissors
 2. The computer will make its move
 3. Winner of the round is announced
-4. Choose to play again or exit
+4. Choose to play again or exit.
 
 ## Game Rules
 
