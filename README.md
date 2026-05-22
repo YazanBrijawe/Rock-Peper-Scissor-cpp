@@ -64,7 +64,7 @@ rps.exe
 ## Requirements
 
 - C++ compiler (g++, clang, or MSVC)
-- No external libraries needed
+- No external libraries needed.
 
 ---
 
